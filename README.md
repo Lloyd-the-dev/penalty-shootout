@@ -1,2 +1,2 @@
 # penalty-shootout
-A penalty simulator
+A penalty simulatorthat increases your deposit based on the value of each position in the post 
